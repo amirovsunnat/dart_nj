@@ -11,5 +11,3 @@ class Theme {
 
   String get getThemeMode => themeMode;
 }
-
-
