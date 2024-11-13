@@ -1,4 +1,4 @@
-import 'class/avtomobil.dart';
+// import 'class/avtomobil.dart';
 
 void main(List<String> args) {
   // Avtomobil avtomobil = Avtomobil("Malibu");
