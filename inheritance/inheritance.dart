@@ -4,6 +4,8 @@ void main(List<String> args) {
 
   Student student = Student(age: 17, name: "Bunyod");
   student.yurish();
+
+  print(student is! Person);
 }
 
 class Person {
