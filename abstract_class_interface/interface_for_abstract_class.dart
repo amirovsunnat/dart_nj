@@ -21,7 +21,7 @@ class KirMashina extends MaishiyTexnika {
   void texnikaHaqida() {
     // TODO: implement texnikaHaqida
   }
-  
+
   @override
   void f1() {
     // TODO: implement f1
