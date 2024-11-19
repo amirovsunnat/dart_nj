@@ -14,6 +14,8 @@ abstract class UchaOladigan {}
 // Susa oladigan abstract klass
 abstract class SuzaOladigan {}
 
+
+
 mixin Uchuvchi on UchaOladigan {
   void uchish() {
     print("Uchish");

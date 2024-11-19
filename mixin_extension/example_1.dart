@@ -26,6 +26,7 @@ class AvtoServis with MashinaTuzatish, MashinaYuvaOlmoq, Tuning {
   void f() {
     super.mashinaTuzatish(this.mashinaNomi);
   }
+  
 }
 
 void main(List<String> args) {
